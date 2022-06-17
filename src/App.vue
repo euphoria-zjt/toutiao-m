@@ -2,6 +2,10 @@
   <div id="app">
     <!-- 路由的出口 -->
     <h1>黑马头条</h1>
+    <div>
+      <i class="toutiao toutiao-shipin"></i>
+    </div>
+
     <router-view />
   </div>
 </template>
